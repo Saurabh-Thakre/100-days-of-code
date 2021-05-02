@@ -25,3 +25,10 @@
 
 **Project**: For couple days, I will be working on creating my personal portfolio using Django, python and javascript.
 
+### Day 3-6: May 2 , 2021
+
+**Progress**: on my 6th Day. I've now finally completed my Basic portfolio project. 
+
+**Thoughts**: The first project had me some amazing experience on the start of 100daysofcode, Now I'm quite confident on working with Django, using database, and lot of fun with designing the front end using Bootstrap as well.
+
+**Project**: https://github.com/Saurabh-Thakre/100DaysOfCode-projects.git
