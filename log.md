@@ -35,7 +35,7 @@
 
 ### Day 7: May 3 , 2021
 
-**Progress**: 7th day, I've choosen a new project to build an Python AI Virtual assiatant. Today it was all about having my AI speak my name and couple other things.
+**Progress**: 7th day, I've chosen a new project to build a Python AI Virtual assistant. Today it was all about having my AI speak my name and a couple of other things.
 
 **Thoughts**: I loved the pyttsx3, speech_recognition and wikipedia python library, its super awesome.
 
