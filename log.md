@@ -32,3 +32,13 @@
 **Thoughts**: The first project had me some amazing experience on the start of 100daysofcode, Now I'm quite confident on working with Django, using database, and lot of fun with designing the front end using Bootstrap as well.
 
 **Project**: https://github.com/Saurabh-Thakre/100DaysOfCode-projects.git
+
+### Day 7: May 3 , 2021
+
+**Progress**: 7th day, I've choosen a new project to build an Python AI Virtual assiatant. Today it was all about having my AI speak my name and couple other things.
+
+**Thoughts**: I loved the pyttsx3, speech_recognition and wikipedia python library, its super awesome.
+
+**Project**: 
+
+
