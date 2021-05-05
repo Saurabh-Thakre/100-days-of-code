@@ -41,4 +41,10 @@
 
 **Project**: 
 
+### Day 8: May 4 , 2021
 
+**Progress**: 8th day, played around different voices for my AI virtual assistant. It was good time coding some conditions and training my AI to speak for the Master i.e me :) 
+
+**Thoughts**: I'm very interested about this project, have been thinking of doing this from long time.
+
+**Project**: 
