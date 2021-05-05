@@ -48,3 +48,12 @@
 **Thoughts**: I'm very interested about this project, have been thinking of doing this from long time.
 
 **Project**: 
+
+### Day 9: May 5 , 2021
+
+**Progress**: Couple functions created, learned couple new statements in python. And my AI actually speaks my name and reponds to my query. Now I have to work around the other parts for my AI. 
+
+**Thoughts**:  There are very nice classes under #speechRecognition library.
+
+**Project**: 
+
