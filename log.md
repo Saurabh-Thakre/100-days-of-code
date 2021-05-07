@@ -57,3 +57,11 @@
 
 **Project**: 
 
+### Day 10: May 6 , 2021
+
+**Progress**: It was a serious learning day today. Almost finished with the project. There were a couple of compatibility issues with the drivers and packages.
+
+**Thoughts**:  Today most of the time went in debugging the code and looking for couple of alternatives for Linux packages.
+
+
+
