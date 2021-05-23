@@ -63,5 +63,11 @@
 
 **Thoughts**:  Today most of the time went in debugging the code and looking for couple of alternatives for Linux packages.
 
+### Day 10-18: May 18 , 2021
+
+**Progress**: Finally I've created my own personal AI using Python. I named it as Jarvis because #iloveyou3000 
+
+**Thoughts**:  It was really fun working with this project on Fedora, I faced lot of issues regarding Audio drivers etc. but another great learning to #100DaysOfCode.
+
 
 
